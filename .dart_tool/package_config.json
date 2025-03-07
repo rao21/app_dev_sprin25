@@ -2,16 +2,16 @@
   "configVersion": 2,
   "packages": [
     {
-      "name": "animations",
-      "rootUri": "file:///Users/rao.noman082gmail.com/.pub-cache/hosted/pub.dev/animations-2.0.11",
-      "packageUri": "lib/",
-      "languageVersion": "3.2"
-    },
-    {
       "name": "async",
       "rootUri": "file:///Users/rao.noman082gmail.com/.pub-cache/hosted/pub.dev/async-2.11.0",
       "packageUri": "lib/",
       "languageVersion": "2.18"
+    },
+    {
+      "name": "bloc",
+      "rootUri": "file:///Users/rao.noman082gmail.com/.pub-cache/hosted/pub.dev/bloc-8.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
     },
     {
       "name": "boolean_selector",
@@ -38,22 +38,10 @@
       "languageVersion": "3.4"
     },
     {
-      "name": "cross_file",
-      "rootUri": "file:///Users/rao.noman082gmail.com/.pub-cache/hosted/pub.dev/cross_file-0.3.4+2",
+      "name": "equatable",
+      "rootUri": "file:///Users/rao.noman082gmail.com/.pub-cache/hosted/pub.dev/equatable-2.0.7",
       "packageUri": "lib/",
-      "languageVersion": "3.3"
-    },
-    {
-      "name": "crypto",
-      "rootUri": "file:///Users/rao.noman082gmail.com/.pub-cache/hosted/pub.dev/crypto-3.0.6",
-      "packageUri": "lib/",
-      "languageVersion": "3.4"
-    },
-    {
-      "name": "cupertino_icons",
-      "rootUri": "file:///Users/rao.noman082gmail.com/.pub-cache/hosted/pub.dev/cupertino_icons-1.0.8",
-      "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "2.12"
     },
     {
       "name": "fake_async",
@@ -62,56 +50,20 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "ffi",
-      "rootUri": "file:///Users/rao.noman082gmail.com/.pub-cache/hosted/pub.dev/ffi-2.1.3",
-      "packageUri": "lib/",
-      "languageVersion": "3.3"
-    },
-    {
-      "name": "file_selector_linux",
-      "rootUri": "file:///Users/rao.noman082gmail.com/.pub-cache/hosted/pub.dev/file_selector_linux-0.9.3+2",
-      "packageUri": "lib/",
-      "languageVersion": "3.3"
-    },
-    {
-      "name": "file_selector_macos",
-      "rootUri": "file:///Users/rao.noman082gmail.com/.pub-cache/hosted/pub.dev/file_selector_macos-0.9.4+2",
-      "packageUri": "lib/",
-      "languageVersion": "3.3"
-    },
-    {
-      "name": "file_selector_platform_interface",
-      "rootUri": "file:///Users/rao.noman082gmail.com/.pub-cache/hosted/pub.dev/file_selector_platform_interface-2.6.2",
-      "packageUri": "lib/",
-      "languageVersion": "3.0"
-    },
-    {
-      "name": "file_selector_windows",
-      "rootUri": "file:///Users/rao.noman082gmail.com/.pub-cache/hosted/pub.dev/file_selector_windows-0.9.3+4",
-      "packageUri": "lib/",
-      "languageVersion": "3.4"
-    },
-    {
       "name": "flutter",
       "rootUri": "file:///Users/rao.noman082gmail.com/fvm/versions/3.27.0/packages/flutter",
       "packageUri": "lib/",
       "languageVersion": "3.3"
     },
     {
-      "name": "flutter_image_carousel_slider",
-      "rootUri": "file:///Users/rao.noman082gmail.com/.pub-cache/hosted/pub.dev/flutter_image_carousel_slider-2.0.1",
+      "name": "flutter_bloc",
+      "rootUri": "file:///Users/rao.noman082gmail.com/.pub-cache/hosted/pub.dev/flutter_bloc-8.1.6",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "2.12"
     },
     {
       "name": "flutter_lints",
       "rootUri": "file:///Users/rao.noman082gmail.com/.pub-cache/hosted/pub.dev/flutter_lints-5.0.0",
-      "packageUri": "lib/",
-      "languageVersion": "3.5"
-    },
-    {
-      "name": "flutter_plugin_android_lifecycle",
-      "rootUri": "file:///Users/rao.noman082gmail.com/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.24",
       "packageUri": "lib/",
       "languageVersion": "3.5"
     },
@@ -122,82 +74,16 @@
       "languageVersion": "3.3"
     },
     {
-      "name": "flutter_web_plugins",
-      "rootUri": "file:///Users/rao.noman082gmail.com/fvm/versions/3.27.0/packages/flutter_web_plugins",
-      "packageUri": "lib/",
-      "languageVersion": "3.2"
-    },
-    {
-      "name": "google_fonts",
-      "rootUri": "file:///Users/rao.noman082gmail.com/.pub-cache/hosted/pub.dev/google_fonts-6.2.1",
-      "packageUri": "lib/",
-      "languageVersion": "2.14"
-    },
-    {
-      "name": "gradient_borders",
-      "rootUri": "file:///Users/rao.noman082gmail.com/.pub-cache/hosted/pub.dev/gradient_borders-1.0.1",
-      "packageUri": "lib/",
-      "languageVersion": "2.18"
-    },
-    {
       "name": "http",
-      "rootUri": "file:///Users/rao.noman082gmail.com/.pub-cache/hosted/pub.dev/http-1.3.0",
+      "rootUri": "file:///Users/rao.noman082gmail.com/.pub-cache/hosted/pub.dev/http-0.13.6",
       "packageUri": "lib/",
-      "languageVersion": "3.4"
+      "languageVersion": "2.19"
     },
     {
       "name": "http_parser",
       "rootUri": "file:///Users/rao.noman082gmail.com/.pub-cache/hosted/pub.dev/http_parser-4.1.2",
       "packageUri": "lib/",
       "languageVersion": "3.4"
-    },
-    {
-      "name": "image_picker",
-      "rootUri": "file:///Users/rao.noman082gmail.com/.pub-cache/hosted/pub.dev/image_picker-1.1.2",
-      "packageUri": "lib/",
-      "languageVersion": "3.3"
-    },
-    {
-      "name": "image_picker_android",
-      "rootUri": "file:///Users/rao.noman082gmail.com/.pub-cache/hosted/pub.dev/image_picker_android-0.8.12+20",
-      "packageUri": "lib/",
-      "languageVersion": "3.5"
-    },
-    {
-      "name": "image_picker_for_web",
-      "rootUri": "file:///Users/rao.noman082gmail.com/.pub-cache/hosted/pub.dev/image_picker_for_web-3.0.6",
-      "packageUri": "lib/",
-      "languageVersion": "3.4"
-    },
-    {
-      "name": "image_picker_ios",
-      "rootUri": "file:///Users/rao.noman082gmail.com/.pub-cache/hosted/pub.dev/image_picker_ios-0.8.12+2",
-      "packageUri": "lib/",
-      "languageVersion": "3.4"
-    },
-    {
-      "name": "image_picker_linux",
-      "rootUri": "file:///Users/rao.noman082gmail.com/.pub-cache/hosted/pub.dev/image_picker_linux-0.2.1+1",
-      "packageUri": "lib/",
-      "languageVersion": "2.19"
-    },
-    {
-      "name": "image_picker_macos",
-      "rootUri": "file:///Users/rao.noman082gmail.com/.pub-cache/hosted/pub.dev/image_picker_macos-0.2.1+2",
-      "packageUri": "lib/",
-      "languageVersion": "3.4"
-    },
-    {
-      "name": "image_picker_platform_interface",
-      "rootUri": "file:///Users/rao.noman082gmail.com/.pub-cache/hosted/pub.dev/image_picker_platform_interface-2.10.1",
-      "packageUri": "lib/",
-      "languageVersion": "3.4"
-    },
-    {
-      "name": "image_picker_windows",
-      "rootUri": "file:///Users/rao.noman082gmail.com/.pub-cache/hosted/pub.dev/image_picker_windows-0.2.1+1",
-      "packageUri": "lib/",
-      "languageVersion": "2.19"
     },
     {
       "name": "leak_tracker",
@@ -242,10 +128,10 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "mime",
-      "rootUri": "file:///Users/rao.noman082gmail.com/.pub-cache/hosted/pub.dev/mime-2.0.0",
+      "name": "nested",
+      "rootUri": "file:///Users/rao.noman082gmail.com/.pub-cache/hosted/pub.dev/nested-1.0.0",
       "packageUri": "lib/",
-      "languageVersion": "3.2"
+      "languageVersion": "2.12"
     },
     {
       "name": "path",
@@ -254,58 +140,10 @@
       "languageVersion": "3.0"
     },
     {
-      "name": "path_provider",
-      "rootUri": "file:///Users/rao.noman082gmail.com/.pub-cache/hosted/pub.dev/path_provider-2.1.5",
-      "packageUri": "lib/",
-      "languageVersion": "3.4"
-    },
-    {
-      "name": "path_provider_android",
-      "rootUri": "file:///Users/rao.noman082gmail.com/.pub-cache/hosted/pub.dev/path_provider_android-2.2.15",
-      "packageUri": "lib/",
-      "languageVersion": "3.5"
-    },
-    {
-      "name": "path_provider_foundation",
-      "rootUri": "file:///Users/rao.noman082gmail.com/.pub-cache/hosted/pub.dev/path_provider_foundation-2.4.1",
-      "packageUri": "lib/",
-      "languageVersion": "3.3"
-    },
-    {
-      "name": "path_provider_linux",
-      "rootUri": "file:///Users/rao.noman082gmail.com/.pub-cache/hosted/pub.dev/path_provider_linux-2.2.1",
-      "packageUri": "lib/",
-      "languageVersion": "2.19"
-    },
-    {
-      "name": "path_provider_platform_interface",
-      "rootUri": "file:///Users/rao.noman082gmail.com/.pub-cache/hosted/pub.dev/path_provider_platform_interface-2.1.2",
-      "packageUri": "lib/",
-      "languageVersion": "3.0"
-    },
-    {
-      "name": "path_provider_windows",
-      "rootUri": "file:///Users/rao.noman082gmail.com/.pub-cache/hosted/pub.dev/path_provider_windows-2.3.0",
-      "packageUri": "lib/",
-      "languageVersion": "3.2"
-    },
-    {
-      "name": "photo_view",
-      "rootUri": "file:///Users/rao.noman082gmail.com/.pub-cache/hosted/pub.dev/photo_view-0.15.0",
+      "name": "provider",
+      "rootUri": "file:///Users/rao.noman082gmail.com/.pub-cache/hosted/pub.dev/provider-6.1.2",
       "packageUri": "lib/",
       "languageVersion": "2.12"
-    },
-    {
-      "name": "platform",
-      "rootUri": "file:///Users/rao.noman082gmail.com/.pub-cache/hosted/pub.dev/platform-3.1.6",
-      "packageUri": "lib/",
-      "languageVersion": "3.2"
-    },
-    {
-      "name": "plugin_platform_interface",
-      "rootUri": "file:///Users/rao.noman082gmail.com/.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.8",
-      "packageUri": "lib/",
-      "languageVersion": "3.0"
     },
     {
       "name": "sky_engine",
@@ -368,25 +206,13 @@
       "languageVersion": "3.3"
     },
     {
-      "name": "web",
-      "rootUri": "file:///Users/rao.noman082gmail.com/.pub-cache/hosted/pub.dev/web-1.1.0",
-      "packageUri": "lib/",
-      "languageVersion": "3.4"
-    },
-    {
-      "name": "xdg_directories",
-      "rootUri": "file:///Users/rao.noman082gmail.com/.pub-cache/hosted/pub.dev/xdg_directories-1.1.0",
-      "packageUri": "lib/",
-      "languageVersion": "3.3"
-    },
-    {
       "name": "app_dev_spring25",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.6"
     }
   ],
-  "generated": "2025-02-20T18:03:13.856689Z",
+  "generated": "2025-03-07T07:32:49.601379Z",
   "generator": "pub",
   "generatorVersion": "3.6.0",
   "flutterRoot": "file:///Users/rao.noman082gmail.com/fvm/versions/3.27.0",
