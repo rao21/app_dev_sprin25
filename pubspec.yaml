@@ -39,6 +39,8 @@ dependencies:
   google_fonts: ^6.2.1
   http: ^1.3.0
   flutter_image_carousel_slider: ^2.0.1
+  provider: ^6.1.2
+  go_router: ^14.8.1
 
 dev_dependencies:
   flutter_test:
